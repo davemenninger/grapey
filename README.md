@@ -1,8 +1,12 @@
 # Grapey
 
-[![Build Status](https://travis-ci.org/davemenninger/grapey.svg?branch=master)](https://travis-ci.org/davemenninger/grapey)
+[![Build Status](https://travis-ci.org/davemenninger/grapey.svg?branch=master)](https://travis-ci.org/davemenninger/grapey) [![Coverage Status](https://coveralls.io/repos/github/davemenninger/grapey/badge.svg?branch=master)](https://coveralls.io/github/davemenninger/grapey?branch=master)
 
 API library for Goodreads, using [Tesla](https://github.com/teamon/tesla).
+
+## Usage
+
+TODO
 
 ## Installation
 
