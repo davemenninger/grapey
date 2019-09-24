@@ -30,6 +30,7 @@ defmodule Grapey.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
+      {:inch_ex, "~> 2.0", only: :docs},
       {:excoveralls, "~> 0.11.2", only: :test},
       {:credo, "~> 1.1"},
       {:sweet_xml, "~> 0.6.6"},
