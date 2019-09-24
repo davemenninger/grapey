@@ -7,6 +7,13 @@ defmodule Grapey.MixProject do
       version: "0.1.0",
       elixir: "~> 1.9",
       start_permanent: Mix.env() == :prod,
+      test_coverage: [tool: ExCoveralls],
+      preferred_cli_env: [
+        coveralls: :test,
+        "coveralls.detail": :test,
+        "coveralls.post": :test,
+        "coveralls.html": :test
+      ],
       deps: deps()
     ]
   end
@@ -22,6 +29,7 @@ defmodule Grapey.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
+      {:excoveralls, "~> 0.11.2", only: :test},
       {:credo, "~> 1.1"},
       {:sweet_xml, "~> 0.6.6"},
       {:tesla, "~> 1.2.0"},
