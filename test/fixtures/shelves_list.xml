@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[1cZmg3UyTIddH3AoH2R7qQ]]></key>
+    <method><![CDATA[shelf_list]]></method>
+  </Request>
+  <shelves end="5" start="1" total="5">
+    <user_shelf>
+      <book_count type="integer">38</book_count>
+      <description nil="true"/>
+      <display_fields/>
+      <exclusive_flag type="boolean">true</exclusive_flag>
+      <featured type="boolean">false</featured>
+      <id type="integer">17090812</id>
+      <name>read</name>
+      <order nil="true"/>
+      <per_page nil="true" type="integer"/>
+      <recommend_for type="boolean">true</recommend_for>
+      <sort nil="true"/>
+      <sticky nil="true" type="boolean"/>
+    </user_shelf>
+    <user_shelf>
+      <book_count type="integer">0</book_count>
+      <description nil="true"/>
+      <display_fields/>
+      <exclusive_flag type="boolean">true</exclusive_flag>
+      <featured type="boolean">false</featured>
+      <id type="integer">17090811</id>
+      <name>currently-reading</name>
+      <order nil="true"/>
+      <per_page nil="true" type="integer"/>
+      <recommend_for type="boolean">true</recommend_for>
+      <sort nil="true"/>
+      <sticky nil="true" type="boolean"/>
+    </user_shelf>
+    <user_shelf>
+      <book_count type="integer">4</book_count>
+      <description nil="true"/>
+      <display_fields/>
+      <exclusive_flag type="boolean">true</exclusive_flag>
+      <featured type="boolean">false</featured>
+      <id type="integer">17090810</id>
+      <name>to-read</name>
+      <order>a</order>
+      <per_page nil="true" type="integer"/>
+      <recommend_for type="boolean">true</recommend_for>
+      <sort>position</sort>
+      <sticky nil="true" type="boolean"/>
+    </user_shelf>
+    <user_shelf>
+      <book_count type="integer">1</book_count>
+      <description nil="true"/>
+      <display_fields/>
+      <exclusive_flag type="boolean">false</exclusive_flag>
+      <featured type="boolean">false</featured>
+      <id type="integer">17937246</id>
+      <name>galley</name>
+      <order nil="true"/>
+      <per_page nil="true" type="integer"/>
+      <recommend_for type="boolean">true</recommend_for>
+      <sort nil="true"/>
+      <sticky nil="true" type="boolean"/>
+    </user_shelf>
+    <user_shelf>
+      <book_count type="integer">4</book_count>
+      <description nil="true"/>
+      <display_fields/>
+      <exclusive_flag type="boolean">false</exclusive_flag>
+      <featured type="boolean">false</featured>
+      <id type="integer">17937251</id>
+      <name>young-adult</name>
+      <order nil="true"/>
+      <per_page nil="true" type="integer"/>
+      <recommend_for type="boolean">true</recommend_for>
+      <sort nil="true"/>
+      <sticky nil="true" type="boolean"/>
+    </user_shelf>
+  </shelves>
+</GoodreadsResponse>

@@ -2,14 +2,6 @@ defmodule Grapey do
   @moduledoc """
   Documentation for Grapey.
   """
-  import SweetXml
-
-  use Tesla
-
-  adapter Tesla.Adapter.Hackney, hackney_opts()
-
-  plug Tesla.Middleware.BaseUrl, "https://www.goodreads.com"
-  plug Grapey.Middleware.XML
 
   @doc """
   Hello world.
@@ -24,13 +16,34 @@ defmodule Grapey do
     :world
   end
 
-  @gr_key "ro5ooiSoUzSmBbwjQbw"
+  use Tesla
+
+  plug Tesla.Middleware.BaseUrl, "https://www.goodreads.com"
+  #plug Tesla.Middleware.Logger
+  plug Grapey.Middleware.XML
+
+  import SweetXml
+
+  def api_key do
+    System.get_env("GRAPEY_KEY") || "ro5ooiSoUzSmBbwjQbw"
+  end
 
   def shelves(user_id) do
-    get("shelf/list.xml?key=#{@gr_key}&user_id=#{user_id}" )
+    {:ok, response} = get("shelf/list.xml?key=#{api_key()}&user_id=#{user_id}", opts: [adapter: hackney_opts()] )
+    response.body
     |> xmap(shelves: [~x"//user_shelf"l,
       name: ~x"./name/text()"
     ])
+  end
+
+  def reviews(user_id, shelf) do
+    {:ok, response} = get("review/list?key=#{api_key()}&v=2&id=#{user_id}&shelf=#{shelf}", opts: [adapter: hackney_opts()]  )
+    response.body
+    |> xmap(books: [~x"//review/book"l,
+      title: ~x"./title/text()"
+    ],
+      total: ~x"//reviews/@total"i
+    )
   end
   
   defp hackney_opts do
@@ -42,18 +55,6 @@ defmodule Grapey do
             String.to_integer(System.get_env("PROXY_PORT"))
           }
         ]
-    end
-  end
-end
-
-defmodule Grapey.Middleware.XML do
-  @behaviour Tesla.Middleware
-
-  import SweetXml
-
-  def call(env, next, _) do
-    with {:ok, env} <- Tesla.run(env, next) do
-      parse(env.body, namespace_conformant: true)
     end
   end
 end

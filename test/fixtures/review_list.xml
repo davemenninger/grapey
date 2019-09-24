@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[ro5ooiSoUzSmBbwjQbw]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='13519944' name='currently-reading' sortable='false'></shelf>
+
+<reviews start="1" end="18" total="18">
+    <review>
+  <id>2985887331</id>
+    <book>
+  <id type="integer">29942695</id>
+  <isbn>1781102635</isbn>
+  <isbn13>9781781102633</isbn13>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.pK_iKMxn3s9OxL9B2mA7cg</uri>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461003668l/29942695._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461003668l/29942695._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29942695-harry-potter-and-the-sorcerer-s-stone</link>
+  <num_pages>8</num_pages>
+  <format>Audiobook</format>
+  <edition_information>Unabridged</edition_information>
+  <publisher>Pottermore from J.K. Rowling</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>6125657</ratings_count>
+  <description>Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'." Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!&lt;br /&gt;--recordedbooks.com</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22632315</ratings_count>
+<text_reviews_count>544214</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>4640799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbpxJa2CwiSSz_9W2FruoA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='2632088067' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Sep 21 19:36:54 -0700 2019</started_at>
+  <read_at></read_at>
+  <date_added>Sat Sep 21 19:36:53 -0700 2019</date_added>
+  <date_updated>Sat Sep 21 19:36:54 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2985887331]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2985887331]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2638080639</id>
+    <book>
+  <id type="integer">11852735</id>
+  <isbn>1604692375</isbn>
+  <isbn13>9781604692372</isbn13>
+  <text_reviews_count type="integer">88</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4mMkglqJsF_6UF-YRZeuOA</uri>
+  <title>Free-Range Chicken Gardens: How to Create a Beautiful, Chicken-Friendly Yard</title>
+  <title_without_series>Free-Range Chicken Gardens: How to Create a Beautiful, Chicken-Friendly Yard</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404578897l/11852735._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404578897l/11852735._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11852735-free-range-chicken-gardens</link>
+  <num_pages>224</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Timber Press</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>751</ratings_count>
+  <description>&lt;b&gt;“If your garden fantasies involve chickens, Jessi Bloom is here to make those dreams come true.” —&lt;i&gt;The New York Times&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Many gardeners fear chickens will peck away at their landscape. But you can keep chickens and have a beautiful garden, too! In this essential handbook, award-winning garden designer Jessi Bloom offers step-by-step instructions for creating a beautiful and functional space while maintaining a happy, healthy flock. &lt;i&gt;Free-Range Chicken Gardens&lt;/i&gt; covers everything a gardener needs to know, from the basics of chicken keeping and creating the perfect chicken-friendly garden design to building innovative coops.&lt;br /&gt;  </description>
+<authors>
+<author>
+<id>4987995</id>
+<name>Jessi Bloom</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4987995.Jessi_Bloom]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>1082</ratings_count>
+<text_reviews_count>168</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>16808796</id>
+  <uri>kca://work/amzn1.gr.work.v1.YHgJI3bE-fpgsE-DVv9yFQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='2283334802' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Dec 25 09:13:16 -0800 2018</started_at>
+  <read_at></read_at>
+  <date_added>Tue Dec 25 09:13:16 -0800 2018</date_added>
+  <date_updated>Tue Dec 25 09:13:16 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2638080639]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2638080639]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2636539267</id>
+    <book>
+  <id type="integer">38524959</id>
+  <isbn>1948742128</isbn>
+  <isbn13>9781948742122</isbn13>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.HaOn4KPGINzpBfXq3ff6Qg</uri>
+  <title>Rust Belt Arcana: Tarot and Natural History in the Exurban Wilds</title>
+  <title_without_series>Rust Belt Arcana: Tarot and Natural History in the Exurban Wilds</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518549730l/38524959._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518549730l/38524959._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38524959-rust-belt-arcana</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Belt Publishing</publisher>
+  <publication_day/>
+  <publication_year>2018</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>33</ratings_count>
+  <description>A work of nature writing and art that takes an unconventional approach to the flora and fauna of the Rust Belt. The essays, which are set in the industrial Midwest, are organized by the major arcana of Tarot cards. The chapter on The Fool tells of a bear harassed by car traffic; the Magician chapter follows a trout swimming through industrial rivers; the High Priestess section shows how climate change is threatening the habitat of the snowy owl. Exploring natural history through the Tarot provides readers with a new perspective on a regional landscape often dismissed as unremarkable, as well as our remarkable place in it.</description>
+<authors>
+<author>
+<id>17708093</id>
+<name>Matt Stansberry</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17708093.Matt_Stansberry]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>33</ratings_count>
+<text_reviews_count>12</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>60157434</id>
+  <uri>kca://work/amzn1.gr.work.v1.ITF25BcFjt0hw2VEOs2BLA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='2281865735' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Dec 23 20:18:22 -0800 2018</started_at>
+  <read_at></read_at>
+  <date_added>Sun Dec 23 20:18:22 -0800 2018</date_added>
+  <date_updated>Sun Dec 23 20:18:22 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2636539267]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2636539267]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2470011625</id>
+    <book>
+  <id type="integer">132615</id>
+  <isbn>0060837721</isbn>
+  <isbn13>9780060837723</isbn13>
+  <text_reviews_count type="integer">211</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hcEhP0tHITSIgE63TdYBnQ</uri>
+  <title>Snakes in Suits: When Psychopaths Go to Work</title>
+  <title_without_series>Snakes in Suits: When Psychopaths Go to Work</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/132615.Snakes_in_Suits</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperBusiness</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.68</average_rating>
+  <ratings_count>3016</ratings_count>
+  <description>Revised and updated with the latest scientific research and updated case studies, the business classic that offers a revealing look at psychopaths in the workplace—how to spot their destructive behavior and stop them from creating chaos in the modern corporate organization.&lt;br /&gt;&lt;br /&gt;Over the past decade, &lt;em&gt;Snakes in Suits&lt;/em&gt; has become the definitive book on how to discover and defend yourself against psychopaths in the office. Now, Dr. Paul Babiak and Dr. Robert D. Hare return with a revised and updated edition of their essential guide.&lt;br /&gt;&lt;br /&gt;All of us at some point have—or will—come into contact with psychopathic individuals. The danger they present may not be readily apparent because of their ability to charm, deceive, and manipulate. Although not necessarily criminal, their self-serving nature frequently is destructive to the organizations that employ them. So how can we protect ourselves and our organizations in a business climate that offers the perfect conditions for psychopaths to thrive?&lt;br /&gt;&lt;br /&gt;In &lt;em&gt;Snakes in Suits,&lt;/em&gt; Hare, an expert on the scientific study of psychopathy, and Babiak, an industrial and organizational psychologist and a leading authority on the corporate psychopath, examine the role of psychopaths in modern corporations and provide the tools employers can use to avoid and deal with them. Together, they have developed the B-Scan 360, a research tool designed specifically for business professionals.&lt;br /&gt;&lt;br /&gt;Dr. Babiak and Dr. Hare reveal the secret lives of psychopaths, explain the ways in which they manipulate and deceive, and help you to see through their games. The rapid pace of today’s corporate environment provides the perfect breeding ground for these "snakes in suits" and this newly revised and updated classic gives you the insight, information, and power to protect yourself and your company before it’s too late.</description>
+<authors>
+<author>
+<id>76416</id>
+<name>Paul Babiak</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/76416.Paul_Babiak]]></link>
+<average_rating>3.67</average_rating>
+<ratings_count>3030</ratings_count>
+<text_reviews_count>240</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>127744</id>
+  <uri>kca://work/amzn1.gr.work.v1.0joz06WdJloT-UTopVHPpg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='2622493779' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Sep 13 18:16:49 -0700 2019</started_at>
+  <read_at></read_at>
+  <date_added>Wed Jul 25 10:12:30 -0700 2018</date_added>
+  <date_updated>Fri Sep 13 18:16:49 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2470011625]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2470011625]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2428494376</id>
+    <book>
+  <id type="integer">367415</id>
+  <isbn>158017325X</isbn>
+  <isbn13>9781580173254</isbn13>
+  <text_reviews_count type="integer">64</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Wc0Rjmed1b2-h9Mpm60YRw</uri>
+  <title>Storey's Guide to Raising Chickens: Care / Feeding / Facilities</title>
+  <title_without_series>Storey's Guide to Raising Chickens: Care / Feeding / Facilities</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/367415.Storey_s_Guide_to_Raising_Chickens</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Storey Publishing, LLC</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>1995</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>1244</ratings_count>
+  <description>Here is all the information you need to successfully raise chickens — from choosing breeds and hatching chicks to building coops, keeping the birds healthy, and protecting them from predators. This revised third edition contains a new chapter on training chickens and understanding their intelligence, expanded coverage of hobby farming, and up-to-date information on chicken health issues, including avian influenza and fowl first aid.&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>17334</id>
+<name>Gail Damerow</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17334.Gail_Damerow]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>3093</ratings_count>
+<text_reviews_count>224</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+<work>  <id>357411</id>
+  <uri>kca://work/amzn1.gr.work.v1.DQ_ETPEFbiVgRSBoIiHZBQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='2075104902' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jun 18 19:49:36 -0700 2018</started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 18 19:49:35 -0700 2018</date_added>
+  <date_updated>Mon Jun 18 19:49:36 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2428494376]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2428494376]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2401021413</id>
+    <book>
+  <id type="integer">184419</id>
+  <isbn>0375757910</isbn>
+  <isbn13>9780375757914</isbn13>
+  <text_reviews_count type="integer">1892</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1IUvQm96EI3rehKfzefgdQ</uri>
+  <title>The Man Who Was Thursday: A Nightmare</title>
+  <title_without_series>The Man Who Was Thursday: A Nightmare</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403181403l/184419._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403181403l/184419._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/184419.The_Man_Who_Was_Thursday</link>
+  <num_pages>182</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Modern Library</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>27518</ratings_count>
+  <description>G. K. Chesterton's surreal masterpiece is a psychological thriller that centers on seven anarchists in turn-of-the-century London who call themselves by the names of the days of the week. Chesterton explores the meanings of their disguised identities in what is a fascinating mystery and, ultimately, a spellbinding allegory.&lt;br /&gt;&lt;br /&gt;As Jonathan Lethem remarks in his Introduction, The real characters are the ideas. Chesterton's nutty agenda is really quite simple: to expose moral relativism and parlor nihilism for the devils he believes them to be. This wouldn't be interesting at all, though, if he didn't also show such passion for giving the devil his due. He animates the forces of chaos and anarchy with every ounce of imaginative verve and rhetorical force in his body.</description>
+<authors>
+<author>
+<id>7014283</id>
+<name>G.K. Chesterton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1365860649p5/7014283.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1365860649p2/7014283.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7014283.G_K_Chesterton]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>145955</ratings_count>
+<text_reviews_count>11961</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>195447</id>
+  <uri>kca://work/amzn1.gr.work.v1.I-l5fmFfuaCXoTESUTxsUw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='2047628987' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed May 23 17:39:14 -0700 2018</started_at>
+  <read_at></read_at>
+  <date_added>Wed May 23 17:39:13 -0700 2018</date_added>
+  <date_updated>Wed May 23 17:39:14 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2401021413]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2401021413]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2247580761</id>
+    <book>
+  <id type="integer">27877137</id>
+  <isbn>1608867552</isbn>
+  <isbn13>9781608867554</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jauzoRLdMcbceROhHFJoaw</uri>
+  <title>Mouse Guard Roleplaying Game Box Set, 2nd Ed.</title>
+  <title_without_series>Mouse Guard Roleplaying Game Box Set, 2nd Ed.</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448205417l/27877137._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448205417l/27877137._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27877137-mouse-guard-roleplaying-game-box-set-2nd-ed</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Archaia</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>79</ratings_count>
+  <description>Finally back in print, this second edition of the &lt;i&gt;Mouse Guard Roleplaying Game Box Set &lt;/i&gt;contains everything players need to know about the world of the Guard, including rules for forming patrols and leading missions into the beleaguered territories.&lt;br /&gt;&lt;br /&gt;This second edition of the Origins Award-winning game contains new art, additional Action, Weapon, and Condition cards, and a revised and updated rule book.</description>
+<authors>
+<author>
+<id>36203</id>
+<name>David Petersen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1256493636p5/36203.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1256493636p2/36203.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/36203.David_Petersen]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>148356</ratings_count>
+<text_reviews_count>5518</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>46233171</id>
+  <uri>kca://work/amzn1.gr.work.v1.97rP23efY6wYmMiWnFHa9g</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='1895373293' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jan 07 07:43:05 -0800 2018</started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 07 07:43:05 -0800 2018</date_added>
+  <date_updated>Sat Jan 05 02:04:53 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2247580761]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2247580761]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2235363128</id>
+    <book>
+  <id type="integer">243095</id>
+  <isbn>0452266556</isbn>
+  <isbn13>9780452266551</isbn13>
+  <text_reviews_count type="integer">104</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.u6lSBMiAdk787sT2nw7Cfg</uri>
+  <title>Children: The Challenge</title>
+  <title_without_series>Children: The Challenge</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355897660l/243095._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355897660l/243095._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/243095.Children</link>
+  <num_pages>335</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Plume Books</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1991</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>678</ratings_count>
+  <description>"Children: The Challenge" gives the key to parents who seek to build trust and love in their families, and raise happier, healthier, and better behaved children. Based on a lifetime of experience with children--their problems, their delights, their challenges--Dr. Rudolf Dreikurs, one of America's foremost child psychiatrists presents an easy to follow program that teaches parents how to cope with the common childhood problems that occur from toddler through preteen years. This warm and reassuring reference helps parents to understand their children's actions better, giving them the guidance necessary to discipline lovingly and effectively.</description>
+<authors>
+<author>
+<id>116606</id>
+<name>Rudolf Dreikurs</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/116606.Rudolf_Dreikurs]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>830</ratings_count>
+<text_reviews_count>127</text_reviews_count>
+</author>
+</authors>
+  <published>1991</published>
+<work>  <id>235518</id>
+  <uri>kca://work/amzn1.gr.work.v1.6EhC3XYUdvcjNfwPjkEFPw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='1884134329' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Dec 31 19:52:25 -0800 2017</started_at>
+  <read_at></read_at>
+  <date_added>Sun Dec 31 19:52:25 -0800 2017</date_added>
+  <date_updated>Sun Dec 31 19:52:25 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2235363128]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2235363128]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2036458273</id>
+    <book>
+  <id type="integer">2367358</id>
+  <isbn>0896087808</isbn>
+  <isbn13>9780896087804</isbn13>
+  <text_reviews_count type="integer">68</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.XDA4Ojy5LGrlK8PJd2qliA</uri>
+  <title>Toolbox for Sustainable City Living: A Do-It-Ourselves Guide</title>
+  <title_without_series>Toolbox for Sustainable City Living: A Do-It-Ourselves Guide</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328770104l/2367358._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328770104l/2367358._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2367358.Toolbox_for_Sustainable_City_Living</link>
+  <num_pages>241</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>South End Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>504</ratings_count>
+  <description>&lt;b&gt;The tools you need to&lt;/b&gt; &lt;b&gt;create self-sufficient, ecologically sustainable cities&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;“A surprisingly effective model for connecting people with dreams to the resources they need.” —Austin Chronicle&lt;br /&gt;&lt;br /&gt;With more than half the world’s population now residing—and struggling to survive—in cities, we can no longer afford to think of sustainability as something that applies only to forests and fields. We need sustainable living right where so many of us are: in urban neighborhoods. But how do we do it?&lt;br /&gt;&lt;br /&gt;That’s where &lt;i&gt;Toolbox for Sustainable City Living&lt;/i&gt; comes in. In 2000 the dynamic Rhizome Collective transformed an abandoned warehouse in Austin, Texas, into a sustainability training center. Here, with their first book, Scott and Stacy, two of Rhizome’s founders, provide city dwellers—those who have never foraged or gardened along with those who dumpster-dive and belong to CSAs—with step-by- step instructions for producing our own food, collecting water, managing waste, reclaiming land, and generating energy. &lt;br /&gt;&lt;br /&gt;With vibrant illustrations created by Juan Martinez of the Beehive Collective and descriptive text based on years of experimentation, Stacy and Scott explain how to build and grow with cheap, salvaged, and recycled materials. More than a how-to manual, &lt;i&gt;Toolbox&lt;/i&gt; is packed with accessible and relevant tools to help move our communities from envisioning a sustainable future toward living it.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Scott Kellogg &lt;/b&gt;a &lt;b&gt;Stacy Pettigrew &lt;/b&gt;are co-founders of the Rhizome Collective, an educational and activist organization based in Austin, Texas, that recently received a $200,000 grant from the EPA to clean up a 10-acre brownfield that they are transforming into an ecological justice park. &lt;i&gt;Toolbox&lt;/i&gt; developed out of R.U.S.T.—Radical Urban Sustainability Training—their intensive weekend seminar in urban ecological survival skills.&lt;br /&gt;&lt;br /&gt; </description>
+<authors>
+<author>
+<id>1060494</id>
+<name>Scott Kellogg</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1060494.Scott_Kellogg]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>508</ratings_count>
+<text_reviews_count>68</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>2374184</id>
+  <uri>kca://work/amzn1.gr.work.v1.MkLnGcdLMDuaD_s7rAP91Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='1690744065' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jun 21 17:22:30 -0700 2017</started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 21 17:22:29 -0700 2017</date_added>
+  <date_updated>Wed Jun 21 17:22:30 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2036458273]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2036458273]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2008600492</id>
+    <book>
+  <id type="integer">33016249</id>
+  <isbn>0997895810</isbn>
+  <isbn13>9780997895810</isbn13>
+  <text_reviews_count type="integer">1359</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vZ_T78mqj6yjPbV7zbLUgg</uri>
+  <title>Good Night Stories for Rebel Girls: 100 Tales of Extraordinary Women</title>
+  <title_without_series>Good Night Stories for Rebel Girls: 100 Tales of Extraordinary Women</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479609660l/33016249._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479609660l/33016249._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33016249-good-night-stories-for-rebel-girls</link>
+  <num_pages>212</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Timbuktu Labs</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>23006</ratings_count>
+  <description>Good Night Stories for Rebel Girls is a children's book packed with 100 bedtime stories about the life of 100 extraordinary women from the past and the present, illustrated by 60 female artists from all over the world. This book inspires girls with the stories of great women, from Elizabeth I to Serena Williams.</description>
+<authors>
+<author>
+<id>16092438</id>
+<name>Elena Favilli</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16092438.Elena_Favilli]]></link>
+<average_rating>4.36</average_rating>
+<ratings_count>27421</ratings_count>
+<text_reviews_count>3641</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>53652027</id>
+  <uri>kca://work/amzn1.gr.work.v1.-kMT3Ct-3ymv_o4i1nkw7Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='1663249426' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue May 23 18:26:42 -0700 2017</started_at>
+  <read_at></read_at>
+  <date_added>Tue May 23 18:26:42 -0700 2017</date_added>
+  <date_updated>Tue May 23 18:26:42 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2008600492]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2008600492]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1897316544</id>
+    <book>
+  <id type="integer">3892688</id>
+  <isbn>1933988657</isbn>
+  <isbn13>9781933988658</isbn13>
+  <text_reviews_count type="integer">48</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Unx9gF49Yol9ecHKQkkiHg</uri>
+  <title>The Well-Grounded Rubyist</title>
+  <title_without_series>The Well-Grounded Rubyist</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist</link>
+  <num_pages>520</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Manning Publications</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>629</ratings_count>
+  <description>&lt;i&gt;The Well-Grounded Rubyist&lt;/i&gt; takes you from interested novice to proficient practitioner. It's a beautifully written tutorial that begins with the basic steps to get your first Ruby program up and running and goes on to explore sophisticated topics like callable objects, reflection, and threading. Whether the topic is simple or tough, the book's easy-to-follow examples and explanations will give you immediate confidence as you build your Ruby programming skills.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Well-Grounded Rubyist&lt;/i&gt; is a thoroughly revised and updated edition of the best-selling Ruby for Rails. In this new book, expert author David A. Black moves beyond Rails and presents a broader view of Ruby. It covers Ruby 1.9, and keeps the same sharp focus and clear writing that made Ruby for Rails stand out.&lt;br /&gt;&lt;br /&gt;Starting with the basics, &lt;i&gt;The Well-Grounded Rubyist&lt;/i&gt; explains Ruby objects and their interactions from the ground up. In the middle chapters, the book turns to an examination of Ruby's built-in, core classes, showing the reader how to manipulate strings, numbers, arrays, ranges, hashes, sets, and more. Regular expressions get attention, as do file and other I/O operations.&lt;br /&gt;&lt;br /&gt;Along the way, the reader is introduced to numerous tools included in the standard Ruby distribution--tools like the task manager Rake and the interactive Ruby console-based interpreter Irb--that facilitate Ruby development and make it an integrated and pleasant experience.&lt;br /&gt;&lt;br /&gt;The book encompasses advanced topics, like the design of Ruby's class and module system, and the use of Ruby threads, taking even the new Rubyist deep into the language and giving every reader the foundations necessary to use, explore, and enjoy this unusually popular and versatile language.&lt;br /&gt;&lt;br /&gt;It's no wonder one reader commented: "The technical depth is just right to not distract beginners, yet detailed enough for more advanced readers."&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Purchase of the print book comes with an offer of a free PDF, ePub, and Kindle eBook from Manning. Also available is all code from the book.</description>
+<authors>
+<author>
+<id>206678</id>
+<name>David A. Black</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/206678.David_A_Black]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>814</ratings_count>
+<text_reviews_count>69</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>3937988</id>
+  <uri>kca://work/amzn1.gr.work.v1.OAr0jtW7m48f9V2K_rCkaw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='1554408835' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jan 30 13:37:45 -0800 2017</started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 30 13:37:45 -0800 2017</date_added>
+  <date_updated>Mon Jan 30 13:37:45 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1897316544]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1897316544]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1812149581</id>
+    <book>
+  <id type="integer">90417</id>
+  <isbn>0970910142</isbn>
+  <isbn13>9780970910141</isbn13>
+  <text_reviews_count type="integer">39</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.0xELs4keURRZ52ECddowTQ</uri>
+  <title>Recipes for Disaster: An Anarchist Cookbook</title>
+  <title_without_series>Recipes for Disaster: An Anarchist Cookbook</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/90417.Recipes_for_Disaster</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>769</ratings_count>
+  <description>Beautifully designed A-Z of the totality of revolutionary politics. This brand new Crimethinc book is the action guide - the direct action guide. From affinity groups to wheatpasting, coalition building, hijacking events, mental health, pie-throwing, shoplifting, stenciling, supporting survivors of domestic violence, surviving a felony trial, torches, and whole bunch more. Incredible design, and lots of graphics give it that hip situ feel. Loads to read, to think about, and to do. At 650 pages, you could always throw the damn book at a suitable target. What are you waiting for?</description>
+<authors>
+<author>
+<id>51939</id>
+<name>CrimethInc.</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1360456374p5/51939.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1360456374p2/51939.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/51939.CrimethInc_]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5433</ratings_count>
+<text_reviews_count>449</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>87260</id>
+  <uri>kca://work/amzn1.gr.work.v1.tWdSCfXld3dxtCS3Qfw6sg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='1474671418' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Nov 14 19:53:58 -0800 2016</started_at>
+  <read_at></read_at>
+  <date_added>Mon Nov 14 19:53:57 -0800 2016</date_added>
+  <date_updated>Mon Nov 14 19:53:58 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1812149581]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1812149581]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1677623726</id>
+    <book>
+  <id type="integer">8842852</id>
+  <isbn>1742373771</isbn>
+  <isbn13>9781742373775</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hQgApHYtyTZ2NR8P_LlG4Q</uri>
+  <title>Buddhism for Mothers: A Calm Approach to Caring for Yourself and Your Children</title>
+  <title_without_series>Buddhism for Mothers: A Calm Approach to Caring for Yourself and Your Children</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328732993l/8842852._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328732993l/8842852._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8842852-buddhism-for-mothers</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Allen  Unwin</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>1742</ratings_count>
+  <description>&lt;b&gt;Firmly grounded in the day-to-day reality of being a mother, this revolutionary guide&lt;i&gt; &lt;/i&gt;discusses Buddhist teachings as applied to the everyday challenges of bringing up children&lt;/b&gt;&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Teaching how to become a calmer and happier mother through Buddhist teachings, this enlightened book helps mothers achieve their full potentials to be with their children in the all-important present moment, as well as to gain the most possible joy out of being with them. Parenthood can be a time of great inner turmoil for a woman—yet parenting books invariably focus on nurturing children rather than the mothers who struggle to raise them. This book is different; simply put, it's a book for mothers. Using Buddhist practices, Sarah Napthali offers ways of coping with the day-to-day challenges of motherhood. These ways also allow space for the deeper reflections about who we are and what makes us happy. By acknowledging the sorrows as well as the joys of mothering, &lt;i&gt;Buddhism for Mothers&lt;/i&gt; can help enable a shift in perspective—so that a mother’s mind can guide them through the day instead of dragging them down. This is Buddhism at its most accessible, applied to the daily realities of ordinary parents.</description>
+<authors>
+<author>
+<id>48981</id>
+<name>Sarah Napthali</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342252808p5/48981.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342252808p2/48981.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/48981.Sarah_Napthali]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>2700</ratings_count>
+<text_reviews_count>291</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>82678</id>
+  <uri>kca://work/amzn1.gr.work.v1.2RuLbp20fPAwxHISw-2fog</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='1347078221' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jun 23 20:00:53 -0700 2016</started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 23 20:00:53 -0700 2016</date_added>
+  <date_updated>Thu Jun 23 20:00:53 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1677623726]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1677623726]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1614526700</id>
+    <book>
+  <id type="integer">4099</id>
+  <isbn>020161622X</isbn>
+  <isbn13>9780201616224</isbn13>
+  <text_reviews_count type="integer">675</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jLzxuyNCafJD8jVEw1Ni1g</uri>
+  <title>The Pragmatic Programmer: From Journeyman to Master</title>
+  <title_without_series>The Pragmatic Programmer: From Journeyman to Master</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401432508l/4099._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401432508l/4099._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer</link>
+  <num_pages>321</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Addison-Wesley Professional</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>13456</ratings_count>
+  <description>-- Ward Cunningham Straight from the programming trenches, The Pragmatic Programmer cuts through the increasing specialization and technicalities of modern software development to examine the core process--taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. Read this book, and youll learn how to *Fight software rot; *Avoid the trap of duplicating knowledge; *Write flexible, dynamic, and adaptable code; *Avoid programming by coincidence; *Bullet-proof your code with contracts, assertions, and exceptions; *Capture real requirements; *Test ruthlessly and effectively; *Delight your users; *Build teams of pragmatic programmers; and *Make your developments more precise with automation. Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. Whether youre a new coder, an experienced programm</description>
+<authors>
+<author>
+<id>2815</id>
+<name>Andy Hunt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215370372p5/2815.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215370372p2/2815.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2815.Andy_Hunt]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>18498</ratings_count>
+<text_reviews_count>1041</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>7809</id>
+  <uri>kca://work/amzn1.gr.work.v1.cITwkxzDF6mATdtGyefYzA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='1287526335' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Apr 18 20:32:15 -0700 2016</started_at>
+  <read_at></read_at>
+  <date_added>Mon Apr 18 20:32:14 -0700 2016</date_added>
+  <date_updated>Mon Apr 18 20:32:15 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1614526700]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1614526700]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>979392571</id>
+    <book>
+  <id type="integer">432931</id>
+  <isbn>0072226013</isbn>
+  <isbn13>9780072226010</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Hf3YW4yO5ic4c--FGTZRMw</uri>
+  <title>JunkBots, Bugbots, and Bots on Wheels: Building Simple Robots With BEAM Technology: Building Simple Robots With BEAM Technology</title>
+  <title_without_series>JunkBots, Bugbots, and Bots on Wheels: Building Simple Robots With BEAM Technology: Building Simple Robots With BEAM Technology</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419181527l/432931._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419181527l/432931._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/432931.JunkBots_Bugbots_and_Bots_on_Wheels</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>McGraw-Hill Education</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>78</ratings_count>
+  <description>From the publishers of &lt;i&gt;BattleBots: The Official Guide&lt;/i&gt; comes this do-it-yourself guide to BEAM (Biology, Electronics, Aesthetics, Mechanics) robots. They're cheap, simple, and can be built by beginners in just a few hours, with help from this expert guide complete with full-color photos. Get ready for some dumpster-diving!</description>
+<authors>
+<author>
+<id>243886</id>
+<name>David Hrynkiw</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/243886.David_Hrynkiw]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>85</ratings_count>
+<text_reviews_count>9</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>421889</id>
+  <uri>kca://work/amzn1.gr.work.v1.qym5V1OGko_ojR2YMWIQGg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='726472158' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jun 27 13:33:49 -0700 2014</started_at>
+  <read_at></read_at>
+  <date_added>Fri Jun 27 13:33:49 -0700 2014</date_added>
+  <date_updated>Fri Jun 27 13:33:49 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/979392571]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/979392571]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>602754375</id>
+    <book>
+  <id type="integer">186074</id>
+  <isbn>075640407X</isbn>
+  <isbn13>9780756404079</isbn13>
+  <text_reviews_count type="integer">28446</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.iUoduJh08Drcwhc9Kt94qg</uri>
+  <title>The Name of the Wind (The Kingkiller Chronicle, #1)</title>
+  <title_without_series>The Name of the Wind</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515589515l/186074._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515589515l/186074._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind</link>
+  <num_pages>662</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Penguin Group DAW</publisher>
+  <publication_day/>
+  <publication_year>2007</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.54</average_rating>
+  <ratings_count>620091</ratings_count>
+  <description>Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen. &lt;br /&gt;&lt;br /&gt;The intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature. &lt;br /&gt;&lt;br /&gt;A high-action story written with a poet's hand, &lt;i&gt;The Name of the Wind&lt;/i&gt; is a masterpiece that will transport readers into the body and mind of a wizard.</description>
+<authors>
+<author>
+<id>108424</id>
+<name>Patrick Rothfuss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1351307341p5/108424.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1351307341p2/108424.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/108424.Patrick_Rothfuss]]></link>
+<average_rating>4.48</average_rating>
+<ratings_count>1137616</ratings_count>
+<text_reviews_count>71374</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2502879</id>
+  <uri>kca://work/amzn1.gr.work.v1.H-uiZxbMDAHsxOpFwGVKGQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='1584351597' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Feb 28 20:44:35 -0800 2017</started_at>
+  <read_at></read_at>
+  <date_added>Mon Apr 29 08:10:35 -0700 2013</date_added>
+  <date_updated>Tue Feb 28 20:44:35 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/602754375]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/602754375]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>519667733</id>
+    <book>
+  <id type="integer">254799</id>
+  <isbn>0743235274</isbn>
+  <isbn13>9780743235273</isbn13>
+  <text_reviews_count type="integer">859</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ioIi3dGMgNqifi6ImB1Wkw</uri>
+  <title>The Creative Habit: Learn It and Use It for Life</title>
+  <title_without_series>The Creative Habit: Learn It and Use It for Life</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477230182l/254799._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477230182l/254799._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/254799.The_Creative_Habit</link>
+  <num_pages>247</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Simon  Schuster</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>21502</ratings_count>
+  <description>Creativity is not a gift from the gods, says Twyla Tharp, bestowed by some divine and mystical spark. It is the product of preparation and effort, and it's within reach of everyone who wants to achieve it. All it takes is the willingness to make creativity a habit, an integral part of your life: &lt;i&gt;In order to be creative, you have to know how to prepare to be creative.&lt;/i&gt; In &lt;i&gt;The Creative Habit,&lt;/i&gt; Tharp takes the lessons she has learned in her remarkable thirty-five-year career and shares them with you, whatever creative impulses you follow -- whether you are a painter, composer, writer, director, choreographer, or, for that matter, a businessperson working on a deal, a chef developing a new dish, a mother wanting her child to see the world anew. &lt;p&gt; When Tharp is at a creative dead end, she relies on a lifetime of exercises to help her get out of the rut, and &lt;i&gt;The Creative Habit&lt;/i&gt; contains more than thirty of them to ease the fears of anyone facing a blank beginning and to open the mind to new possibilities. &lt;/p&gt;&lt;p&gt; Tharp's exercises are practical and immediately doable -- for the novice or expert. In "Where's Your Pencil?" she reminds us to observe the world -- and get it down on paper. In "Coins and Chaos," she provides the simplest of mental games to restore order and peace. In "Do a Verb," she turns your mind and body into coworkers. In "Build a Bridge to the Next Day," she shows how to clean your cluttered mind overnight. &lt;/p&gt;&lt;p&gt; To Tharp, sustained creativity begins with rituals, self-knowledge, harnessing your memories, and organizing your materials (so no insight is ever lost). Along the way she leads you by the hand through the painful first steps of scratching for ideas, finding the spine of your work, and getting out of ruts into productive grooves. In her creative realm, optimism rules. An empty room, a bare desk, a blank canvas can be energizing, not demoralizing. And in this inventive, encouraging book, Twyla Tharp shows us how to take a deep breath and begin!&lt;/p&gt;</description>
+<authors>
+<author>
+<id>148884</id>
+<name>Twyla Tharp</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1237207227p5/148884.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1237207227p2/148884.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/148884.Twyla_Tharp]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>22106</ratings_count>
+<text_reviews_count>1009</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>246926</id>
+  <uri>kca://work/amzn1.gr.work.v1.8UrcNxWi3dhwGay6fet88Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='2170867712' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Sep 10 18:08:18 -0700 2018</started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 28 10:28:14 -0800 2013</date_added>
+  <date_updated>Mon Sep 10 18:08:18 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/519667733]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/519667733]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>394913188</id>
+    <book>
+  <id type="integer">17472023</id>
+  <isbn>0761177396</isbn>
+  <isbn13>9780761177395</isbn13>
+  <text_reviews_count type="integer">106</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.CFc8qPBiLGyGfH10FsUYNg</uri>
+  <title>A Field Guide to Lucid Dreaming: Mastering the Art of Oneironautics</title>
+  <title_without_series>A Field Guide to Lucid Dreaming: Mastering the Art of Oneironautics</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404581078l/17472023._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404581078l/17472023._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17472023-a-field-guide-to-lucid-dreaming</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Workman Publishing Company</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>1117</ratings_count>
+  <description>Imagine being able to fly. Walk through walls. Shape-shift. Breathe underwater. Conjure loved ones—or total strangers—out of thin air. Imagine experiencing your nighttime dreams with the same awareness you possess right now—fully functioning memory, imagination, and self-awareness. Imagine being able to use this power to be more creative, solve problems, and discover a deep sense of well-being.&lt;br /&gt;&lt;br /&gt;This is lucid dreaming—the ability to know you are dreaming while you are in a dream, and then consciously explore and change the elements of the dream. &lt;i&gt;A Field Guide to Lucid Dreaming&lt;/i&gt;, with its evocative retro illustrations, shows exactly how to do it. Written by three avid, experienced lucid dreamers, this manual for the dream world takes the reader from step one—learning how to reconnect with his or her dreams— through the myriad possibilities of what can happen once the dreamer is lucid and an accomplished oneironaut (a word that comes from the Greek &lt;i&gt;oneira&lt;/i&gt;, meaning dreams, and &lt;i&gt;nautis&lt;/i&gt;, meaning sailor).&lt;br /&gt;&lt;br /&gt;Readers will learn about the powerful REM sleep stage—a window into lucid dreams. Improve dream recall by keeping a journal. The importance of reality checks, such as “The Finger”—during the day, try to pass your finger through your palm; then, when you actually do it successfully, you’ll know that you’re dreaming. And once you become lucid, how to make the most of it. Every time you dream, you are washing up on the shores of your own inner landscape. Learn to explore a strange and thrilling world with &lt;i&gt;A Field Guide to Lucid Dreaming&lt;/i&gt;.</description>
+<authors>
+<author>
+<id>6435421</id>
+<name>Dylan Tuccillo</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6435421.Dylan_Tuccillo]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>1110</ratings_count>
+<text_reviews_count>123</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>24381143</id>
+  <uri>kca://work/amzn1.gr.work.v1.cdNTFkkEfkWjeojrRyP3XA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='13519944' name='currently-reading' review_shelf_id='260363623' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Aug 18 16:03:27 -0700 2012</started_at>
+  <read_at></read_at>
+  <date_added>Sat Aug 18 16:03:27 -0700 2012</date_added>
+  <date_updated>Mon Sep 15 23:20:48 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>1</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/394913188]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/394913188]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>
