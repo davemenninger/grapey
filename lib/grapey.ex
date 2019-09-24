@@ -6,7 +6,7 @@ defmodule Grapey do
 
   use Tesla
 
-  adapter Tesla.Adapter.Hackney, proxy: {'proxy.whapps.internal', 8192}
+  adapter Tesla.Adapter.Hackney, hackney_opts()
 
   plug Tesla.Middleware.BaseUrl, "https://www.goodreads.com"
   plug Grapey.Middleware.XML
@@ -28,9 +28,21 @@ defmodule Grapey do
 
   def shelves(user_id) do
     get("shelf/list.xml?key=#{@gr_key}&user_id=#{user_id}" )
-    |> xmap(shelves: [ ~x"//user_shelf"l,
+    |> xmap(shelves: [~x"//user_shelf"l,
       name: ~x"./name/text()"
     ])
+  end
+  
+  defp hackney_opts do
+    case System.get_env("PROXY_HOST") do
+      nil -> []
+      _ -> [
+          proxy: {
+            String.to_charlist(System.get_env("PROXY_HOST")),
+            String.to_integer(System.get_env("PROXY_PORT"))
+          }
+        ]
+    end
   end
 end
 
