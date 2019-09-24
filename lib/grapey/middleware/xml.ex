@@ -5,7 +5,6 @@ defmodule Grapey.Middleware.XML do
 
   def call(env, next, _) do
     with {:ok, env} <- Tesla.run(env, next) do
-      # env.body |> IO.inspect
       body = parse(env.body, namespace_conformant: true)
       {:ok, %{env | body: body }}
     end

@@ -3,23 +3,9 @@ defmodule Grapey do
   Documentation for Grapey.
   """
 
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Grapey.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
-
   use Tesla
 
   plug Tesla.Middleware.BaseUrl, "https://www.goodreads.com"
-  #plug Tesla.Middleware.Logger
   plug Grapey.Middleware.XML
 
   import SweetXml
