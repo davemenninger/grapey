@@ -1,6 +1,8 @@
 # Grapey
 
-**TODO: Add description**
+[![Build Status](https://travis-ci.org/davemenninger/grapey.svg?branch=master)](https://travis-ci.org/davemenninger/grapey)
+
+API library for Goodreads, using [Tesla](https://github.com/teamon/tesla).
 
 ## Installation
 
