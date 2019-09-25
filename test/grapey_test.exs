@@ -18,7 +18,7 @@ defmodule GrapeyTest do
   end
 
   test "list shelves" do
-    assert Grapey.shelves(4_320_329) == %{shelves:
+    assert Grapey.shelves(user_id: 4_320_329) == %{shelves:
       [
         %{name: 'read'},
         %{name: 'currently-reading'},
@@ -35,7 +35,7 @@ defmodule GrapeyTest do
       books: _books,
       start_num: start_num,
       end_num: end_num
-    } = Grapey.reviews(4_320_329, 'currently-reading')
+    } = Grapey.reviews(user_id: 4_320_329, shelf: 'currently-reading')
 
     assert total == 18
     assert start_num == 1
@@ -48,7 +48,7 @@ defmodule GrapeyTest do
       books: books,
       start_num: start_num,
       end_num: end_num
-    } = Grapey.reviews(4_320_329, 'olr-bookclub', 2) # TODO keyword args
+    } = Grapey.reviews(user_id: 4_320_329, shelf: 'olr-bookclub', page: 2)
     assert total == 28
     assert start_num == 21
     assert end_num == 28

@@ -14,7 +14,7 @@ defmodule Grapey do
     System.get_env("GRAPEY_KEY") || "ro5ooiSoUzSmBbwjQbw"
   end
 
-  def shelves(user_id) do
+  def shelves(user_id: user_id) do
     {:ok, response} = get("shelf/list.xml?key=#{api_key()}&user_id=#{user_id}", opts: [adapter: hackney_opts()] )
     response.body
     |> xmap(shelves: [~x"//user_shelf"l,
@@ -22,7 +22,21 @@ defmodule Grapey do
     ])
   end
 
-  def reviews(user_id, shelf, page \\ 1) do
+  # TODO refactor to remove duplication
+
+  def reviews(user_id: user_id, shelf: shelf) do
+    {:ok, response} = get("review/list?key=#{api_key()}&v=2&id=#{user_id}&shelf=#{shelf}", opts: [adapter: hackney_opts()]  )
+    response.body
+    |> xmap(books: [~x"//review/book"l,
+      title: ~x"./title/text()"
+    ],
+      total: ~x"//reviews/@total"i,
+      start_num: ~x"//reviews/@start"i,
+      end_num: ~x"//reviews/@end"i
+    )
+  end
+
+  def reviews(user_id: user_id, shelf: shelf, page: page) do
     {:ok, response} = get("review/list?key=#{api_key()}&v=2&id=#{user_id}&shelf=#{shelf}&page=#{page}", opts: [adapter: hackney_opts()]  )
     response.body
     |> xmap(books: [~x"//review/book"l,
