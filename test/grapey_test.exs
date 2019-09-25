@@ -35,7 +35,7 @@ defmodule GrapeyTest do
       books: _books,
       start_num: start_num,
       end_num: end_num
-    } = Grapey.reviews(user_id: 4_320_329, shelf: 'currently-reading')
+    } = Grapey.reviews(%{id: 4_320_329, shelf: "currently-reading"})
 
     assert total == 18
     assert start_num == 1
@@ -48,7 +48,7 @@ defmodule GrapeyTest do
       books: books,
       start_num: start_num,
       end_num: end_num
-    } = Grapey.reviews(user_id: 4_320_329, shelf: 'olr-bookclub', page: 2)
+    } = Grapey.reviews(%{id: 4_320_329, shelf: "olr-bookclub", page: 2})
     assert total == 28
     assert start_num == 21
     assert end_num == 28
