@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[ro5ooiSoUzSmBbwjQbw]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='false' id='294077987' name='olr-bookclub' sortable='false'></shelf>
+
+<reviews start="21" end="28" total="28">
+    <review>
+  <id>2030439930</id>
+    <book>
+  <id type="integer">297673</id>
+  <isbn>1594489580</isbn>
+  <isbn13>9781594489587</isbn13>
+  <text_reviews_count type="integer">15510</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._cgK7hrAUbGjUxL0ijUf0g</uri>
+  <title>The Brief Wondrous Life of Oscar Wao</title>
+  <title_without_series>The Brief Wondrous Life of Oscar Wao</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391409748l/297673._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391409748l/297673._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/297673.The_Brief_Wondrous_Life_of_Oscar_Wao</link>
+  <num_pages>335</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Riverhead Books</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>214774</ratings_count>
+  <description>Things have never been easy for Oscar, a sweet but disastrously overweight, lovesick Dominican ghetto nerd. From his home in New Jersey, where he lives with his old-world mother and rebellious sister, Oscar dreams of becoming the Dominican J. R. R. Tolkien and, most of all, of finding love. But he may never get what he wants, thanks to the Fukœ—the curse that has haunted the Oscar's family for generations, dooming them to prison, torture, tragic accidents, and, above all, ill-starred love. Oscar, still waiting for his first kiss, is just its most recent victim. &lt;br /&gt;&lt;br /&gt;Diaz immerses us in the tumultuous life of Oscar and the history of the family at large, rendering with genuine warmth and dazzling energy, humor, and insight the Dominican-American experience, and, ultimately, the endless human capacity to persevere in the face of heartbreak and loss. A true literary triumph, &lt;i&gt;The Brief Wondrous Life of Oscar Wao&lt;/i&gt; confirms Junot Diaz as one of the best and most exciting voices of our time.</description>
+<authors>
+<author>
+<id>55215</id>
+<name>Junot Díaz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487667538p5/55215.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487667538p2/55215.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/55215.Junot_D_az]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>338195</ratings_count>
+<text_reviews_count>29753</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>3281466</id>
+  <uri>kca://work/amzn1.gr.work.v1.LCLHhe8-3-kNfuky-PR3SQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="13519945" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='294077987' name='olr-bookclub' review_shelf_id='2269558968' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jun 23 13:31:01 -0700 2017</started_at>
+  <read_at>Thu Jul 20 14:06:31 -0700 2017</read_at>
+  <date_added>Thu Jun 15 12:42:42 -0700 2017</date_added>
+  <date_updated>Wed Dec 12 12:24:51 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2030439930]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2030439930]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1883300263</id>
+    <book>
+  <id type="integer">27213168</id>
+  <isbn>0062368591</isbn>
+  <isbn13>9780062368591</isbn13>
+  <text_reviews_count type="integer">1225</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.WoNLEs0DkNAoOAgfFV8xrg</uri>
+  <title>I Contain Multitudes: The Microbes Within Us and a Grander View of Life</title>
+  <title_without_series>I Contain Multitudes: The Microbes Within Us and a Grander View of Life</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445606162l/27213168._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445606162l/27213168._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27213168-i-contain-multitudes</link>
+  <num_pages>368</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ecco</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.18</average_rating>
+  <ratings_count>10758</ratings_count>
+  <description>&lt;p&gt;Joining the ranks of popular science classics like &lt;em&gt;The Botany of Desire&lt;/em&gt; and &lt;em&gt;The Selfish Gene,&lt;/em&gt; a groundbreaking, wondrously informative, and vastly entertaining examination of the most significant revolution in biology since Darwin—a “microbe’s-eye view” of the world that reveals a marvelous, radically reconceived picture of life on earth.&lt;/p&gt;&lt;p&gt;Every animal, whether human, squid, or wasp, is home to millions of bacteria and other microbes. Ed Yong, whose humor is as evident as his erudition, prompts us to look at ourselves and our animal companions in a new light—less as individuals and more as the interconnected, interdependent multitudes we assuredly are.&lt;/p&gt;&lt;p&gt;The microbes in our bodies are part of our immune systems and protect us from disease. In the deep oceans, mysterious creatures without mouths or guts depend on microbes for all their energy. Bacteria provide squid with invisibility cloaks, help beetles to bring down forests, and allow worms to cause diseases that afflict millions of people.&lt;/p&gt;&lt;p&gt;Many people think of microbes as germs to be eradicated, but those that live with us—the microbiome—build our bodies, protect our health, shape our identities, and grant us incredible abilities. In this astonishing book, Ed Yong takes us on a grand tour through our microbial partners, and introduces us to the scientists on the front lines of discovery. It will change both our view of nature and our sense of where we belong in it.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>4124738</id>
+<name>Ed Yong</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1516914941p5/4124738.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1516914941p2/4124738.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4124738.Ed_Yong]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>10761</ratings_count>
+<text_reviews_count>1464</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>47255162</id>
+  <uri>kca://work/amzn1.gr.work.v1.DSkKkQzHN2D5gavT77AZUw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="13519945" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='294077987' name='olr-bookclub' review_shelf_id='2269556930' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jul 15 14:54:32 -0700 2018</started_at>
+  <read_at>Sat Jul 21 17:46:24 -0700 2018</read_at>
+  <date_added>Tue Jan 17 16:12:09 -0800 2017</date_added>
+  <date_updated>Wed Dec 12 12:22:57 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1883300263]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1883300263]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1722989838</id>
+    <book>
+  <id type="integer">34497</id>
+  <isbn>0060855924</isbn>
+  <isbn13>9780060855925</isbn13>
+  <text_reviews_count type="integer">4323</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xsdUF_fh8BJ08QpigEVMug</uri>
+  <title>The Color of Magic (Discworld, #1; Rincewind, #1)</title>
+  <title_without_series>The Color of Magic</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407111017l/34497._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407111017l/34497._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34497.The_Color_of_Magic</link>
+  <num_pages>228</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>280935</ratings_count>
+  <description>Terry Pratchett's profoundly irreverent, bestselling novels have garnered him a revered position in the halls of parody next to the likes of Mark Twain, Kurt Vonnegut, Douglas Adams, and Carl Hiaasen.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;The Color of Magic&lt;/em&gt; is Terry Pratchett's maiden voyage through the now-legendary land of Discworld. This is where it all begins -- with the tourist Twoflower and his wizard guide, Rincewind.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;On a world supported on the back of a giant turtle (sex unknown), a gleeful, explosive, wickedly eccentric expedition sets out. There's an avaricious but inept wizard, a naive tourist whose luggage moves on hundreds of dear little legs, dragons who only exist if you believe in them, and of course THE EDGE of the planet...&lt;/i&gt;</description>
+<authors>
+<author>
+<id>1654</id>
+<name>Terry Pratchett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235562205p5/1654.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235562205p2/1654.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>3877626</ratings_count>
+<text_reviews_count>134860</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>194190</id>
+  <uri>kca://work/amzn1.gr.work.v1.WXE3cJqvT0knlf1Vm3kJvQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="13519945" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='294077987' name='olr-bookclub' review_shelf_id='2269559352' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Aug 08 19:06:46 -0700 2016</started_at>
+  <read_at>Thu Aug 18 05:22:09 -0700 2016</read_at>
+  <date_added>Mon Aug 08 19:06:45 -0700 2016</date_added>
+  <date_updated>Wed Dec 12 12:25:12 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1722989838]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1722989838]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1696119822</id>
+    <book>
+  <id type="integer">773858</id>
+  <isbn>1416553649</isbn>
+  <isbn13>9781416553649</isbn13>
+  <text_reviews_count type="integer">4406</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.yJAcr0tTYCgBZaSksE7sbg</uri>
+  <title>Born Standing Up: A Comic's Life</title>
+  <title_without_series>Born Standing Up: A Comic's Life</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/773858.Born_Standing_Up</link>
+  <num_pages>207</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scribner Book Company</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>76317</ratings_count>
+  <description>In the midseventies, Steve Martin exploded onto the comedy scene. By 1978 he was the biggest concert draw in the history of stand-up. In 1981 he quit forever. This book is, in his own words, the story of "why I did stand-up and why I walked away." &lt;br /&gt;&lt;br /&gt;Emmy and Grammy Award winner, author of the acclaimed &lt;i&gt;New York Times&lt;/i&gt; bestsellers &lt;i&gt;Shopgirl&lt;/i&gt; and &lt;i&gt;The Pleasure of My Company&lt;/i&gt;, and a regular contributor to &lt;i&gt;The New Yorker&lt;/i&gt;, Martin has always been a writer. His memoir of his years in stand-up is candid, spectacularly amusing, and beautifully written. &lt;br /&gt;&lt;br /&gt;At age ten Martin started his career at Disneyland, selling guidebooks in the newly opened theme park. In the decade that followed, he worked in the Disney magic shop and the Bird Cage Theatre at Knott's Berry Farm, performing his first magic/comedy act a dozen times a week. The story of these years, during which he practiced and honed his craft, is moving and revelatory. The dedication to excellence and innovation is formed at an astonishingly early age and never wavers or wanes. &lt;br /&gt;&lt;br /&gt;Martin illuminates the sacrifice, discipline, and originality that made him an icon and informs his work to this day. To be this good, to perform so frequently, was isolating and lonely. It took Martin decades to reconnect with his parents and sister, and he tells that story with great tenderness. Martin also paints a portrait of his times-the era of free love and protests against the war in Vietnam, the heady irreverence of &lt;i&gt;The Smothers Brothers Comedy Hour&lt;/i&gt; in the late sixties, and the transformative new voice of &lt;i&gt;Saturday Night Live&lt;/i&gt; in the seventies.&lt;br /&gt;&lt;br /&gt;Throughout the text, Martin has placed photographs, many never seen before. &lt;i&gt;Born Standing Up&lt;/i&gt; is a superb testament to the sheer tenacity, focus, and daring of one of the greatest and most iconoclastic comedians of all time.</description>
+<authors>
+<author>
+<id>7103</id>
+<name>Steve Martin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1410018030p5/7103.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1410018030p2/7103.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7103.Steve_Martin]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>199807</ratings_count>
+<text_reviews_count>13638</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>3315115</id>
+  <uri>kca://work/amzn1.gr.work.v1.u2LjV_2VOT5zVQQK4o2ENA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="13519945" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='294077987' name='olr-bookclub' review_shelf_id='2269559737' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jul 12 12:52:33 -0700 2016</started_at>
+  <read_at>Thu Jul 14 19:08:52 -0700 2016</read_at>
+  <date_added>Tue Jul 12 12:52:32 -0700 2016</date_added>
+  <date_updated>Wed Dec 12 12:25:29 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1696119822]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1696119822]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1627367456</id>
+    <book>
+  <id type="integer">15842439</id>
+  <isbn>147671746X</isbn>
+  <isbn13>9781476717463</isbn13>
+  <text_reviews_count type="integer">1438</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.U5lLcRESyDrkZn4995v5SA</uri>
+  <title>Warm Bodies (Warm Bodies, #1)</title>
+  <title_without_series>Warm Bodies</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15842439-warm-bodies</link>
+  <num_pages>256</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Atria/Emily Bestler Books</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>96942</ratings_count>
+  <description>&lt;b&gt;Now a major motion picture from Summit Entertainment.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;R is having a no-life crisis—he is a zombie. He has no memories, no identity, and no pulse, but he is a little different from his fellow Dead. He may occasionally eat people, but he’d rather be riding abandoned airport escalators, listening to Sinatra in the cozy 747 he calls home, or collecting souvenirs from the ruins of civilization.&lt;br /&gt;&lt;br /&gt;And then he meets a girl.&lt;br /&gt;&lt;br /&gt;First as his captive, then his reluctant guest, Julie is a blast of living color in R’s gray landscape, and something inside him begins to bloom. He doesn't want to eat this girl—although she looks delicious—he wants to protect her. But their unlikely bond will cause ripples they can’t imagine, and their hopeless world won’t change without a fight.</description>
+<authors>
+<author>
+<id>1302285</id>
+<name>Isaac Marion</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542578317p5/1302285.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542578317p2/1302285.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1302285.Isaac_Marion]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>106061</ratings_count>
+<text_reviews_count>11989</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>10090210</id>
+  <uri>kca://work/amzn1.gr.work.v1.uHiuR9PEZ0faXbtz0Fluyg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="13519945" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='294077987' name='olr-bookclub' review_shelf_id='2269559912' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon May 02 18:23:13 -0700 2016</started_at>
+  <read_at>Wed May 18 19:59:22 -0700 2016</read_at>
+  <date_added>Mon May 02 18:23:12 -0700 2016</date_added>
+  <date_updated>Wed Dec 12 12:25:38 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1627367456]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1627367456]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1614503835</id>
+    <book>
+  <id type="integer">17333319</id>
+  <isbn>0316243914</isbn>
+  <isbn13>9780316243919</isbn13>
+  <text_reviews_count type="integer">7560</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.5r-3ttmaUCl8V_QaqQNMPA</uri>
+  <title>Burial Rites</title>
+  <title_without_series>Burial Rites</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384207446l/17333319._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384207446l/17333319._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17333319-burial-rites</link>
+  <num_pages>336</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>74934</ratings_count>
+  <description>A brilliant literary debut, inspired by a true story: the final days of a young woman accused of murder in Iceland in 1829. &lt;br /&gt;&lt;br /&gt;Set against Iceland's stark landscape, Hannah Kent brings to vivid life the story of Agnes, who, charged with the brutal murder of her former master, is sent to an isolated farm to await execution. &lt;br /&gt;&lt;br /&gt;Horrified at the prospect of housing a convicted murderer, the family at first avoids Agnes. Only Tóti, a priest Agnes has mysteriously chosen to be her spiritual guardian, seeks to understand her. But as Agnes's death looms, the farmer's wife and their daughters learn there is another side to the sensational story they've heard. &lt;br /&gt;&lt;br /&gt;Riveting and rich with lyricism, Burial Rites evokes a dramatic existence in a distant time and place, and asks the question, how can one woman hope to endure when her life depends upon the stories told by others?</description>
+<authors>
+<author>
+<id>6569504</id>
+<name>Hannah Kent</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1470708527p5/6569504.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1470708527p2/6569504.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6569504.Hannah_Kent]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>87820</ratings_count>
+<text_reviews_count>12213</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21943144</id>
+  <uri>kca://work/amzn1.gr.work.v1.lKu_BcB-f5bb6TGERBJDXQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="13519945" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='294077987' name='olr-bookclub' review_shelf_id='2269560044' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Apr 18 20:01:10 -0700 2016</started_at>
+  <read_at>Mon Apr 18 20:01:25 -0700 2016</read_at>
+  <date_added>Mon Apr 18 20:01:09 -0700 2016</date_added>
+  <date_updated>Wed Dec 12 12:25:45 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1614503835]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1614503835]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1575525960</id>
+    <book>
+  <id type="integer">28747</id>
+  <isbn>0099595818</isbn>
+  <isbn13>9780099595816</isbn13>
+  <text_reviews_count type="integer">966</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.v6t5xY981hxPll2fTTq-oQ</uri>
+  <title>CivilWarLand in Bad Decline</title>
+  <title_without_series>CivilWarLand in Bad Decline</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553962495l/28747._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553962495l/28747._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28747.CivilWarLand_in_Bad_Decline</link>
+  <num_pages>179</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.22</average_rating>
+  <ratings_count>16033</ratings_count>
+  <description>In six stories and the novella, Bounty, Saunders introduces readers to people struggling to survive in an increasingly haywire world.&lt;br /&gt;&lt;br /&gt;Source: georgesaundersbooks.com</description>
+<authors>
+<author>
+<id>8885</id>
+<name>George Saunders</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1355356844p5/8885.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1355356844p2/8885.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8885.George_Saunders]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>241113</ratings_count>
+<text_reviews_count>33511</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>3265487</id>
+  <uri>kca://work/amzn1.gr.work.v1.vR3FV8KDRJkfv4zbkK9mhA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="13519945" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='294077987' name='olr-bookclub' review_shelf_id='2269560151' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 10 18:19:19 -0800 2016</started_at>
+  <read_at>Thu Mar 10 18:19:24 -0800 2016</read_at>
+  <date_added>Thu Mar 10 09:05:18 -0800 2016</date_added>
+  <date_updated>Wed Dec 12 12:25:52 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1575525960]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1575525960]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>571479650</id>
+    <book>
+  <id type="integer">6493208</id>
+  <isbn>1400052173</isbn>
+  <isbn13>9781400052172</isbn13>
+  <text_reviews_count type="integer">28475</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._7-9Y5M5fK8bUSkjHjFNqQ</uri>
+  <title>The Immortal Life of Henrietta Lacks</title>
+  <title_without_series>The Immortal Life of Henrietta Lacks</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks</link>
+  <num_pages>370</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown Publishing Group</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>518089</ratings_count>
+  <description>Her name was Henrietta Lacks, but scientists know her as HeLa. She was a poor Southern tobacco farmer who worked the same land as her slave ancestors, yet her cells—taken without her knowledge—became one of the most important tools in medicine. The first “immortal” human cells grown in culture, they are still alive today, though she has been dead for more than sixty years. If you could pile all HeLa cells ever grown onto a scale, they’d weigh more than 50 million metric tons—as much as a hundred Empire State Buildings. HeLa cells were vital for developing the polio vaccine; uncovered secrets of cancer, viruses, and the atom bomb’s effects; helped lead to important advances like in vitro fertilization, cloning, and gene mapping; and have been bought and sold by the billions.&lt;p&gt;Yet Henrietta Lacks remains virtually unknown, buried in an unmarked grave.&lt;/p&gt;&lt;p&gt;Now Rebecca Skloot takes us on an extraordinary journey, from the “colored” ward of Johns Hopkins Hospital in the 1950s to stark white laboratories with freezers full of HeLa cells; from Henrietta’s small, dying hometown of Clover, Virginia — a land of wooden slave quarters, faith healings, and voodoo — to East Baltimore today, where her children and grandchildren live and struggle with the legacy of her cells.&lt;/p&gt;&lt;p&gt;Henrietta’s family did not learn of her “immortality” until more than twenty years after her death, when scientists investigating HeLa began using her husband and children in research without informed consent. And though the cells had launched a multimillion-dollar industry that sells human biological materials, her family never saw any of the profits. As Rebecca Skloot so brilliantly shows, the story of the Lacks family — past and present — is inextricably connected to the dark history of experimentation on African Americans, the birth of bioethics, and the legal battles over whether we control the stuff we are made of.&lt;/p&gt;&lt;p&gt;Over the decade it took to uncover this story, Rebecca became enmeshed in the lives of the Lacks family—especially Henrietta’s daughter Deborah, who was devastated to learn about her mother’s cells. She was consumed with questions: Had scientists cloned her mother? Did it hurt her when researchers infected her cells with viruses and shot them into space? What happened to her sister, Elsie, who died in a mental institution at the age of fifteen? And if her mother was so important to medicine, why couldn’t her children afford health insurance?&lt;/p&gt;&lt;p&gt;Intimate in feeling, astonishing in scope, and impossible to put down, &lt;i&gt;The Immortal Life of Henrietta Lacks&lt;/i&gt; captures the beauty and drama of scientific discovery, as well as its human consequences.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>2940640</id>
+<name>Rebecca Skloot</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1291156030p5/2940640.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1291156030p2/2940640.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2940640.Rebecca_Skloot]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>519552</ratings_count>
+<text_reviews_count>32617</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>6684634</id>
+  <uri>kca://work/amzn1.gr.work.v1.7GCC_sT0t36kTkJalDCj5w</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="13519945" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='294077987' name='olr-bookclub' review_shelf_id='2269557804' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 17 06:59:49 -0700 2018</started_at>
+  <read_at>Thu Mar 29 18:40:01 -0700 2018</read_at>
+  <date_added>Tue Mar 26 10:41:49 -0700 2013</date_added>
+  <date_updated>Wed Dec 12 12:23:48 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/571479650]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/571479650]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

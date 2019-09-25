@@ -9,6 +9,7 @@ defmodule GrapeyTest do
     mock fn env -> 
       cond do
         Regex.match?(~r/shelf\/list/, env.url) -> %Tesla.Env{status: 200, body: fixture("shelves_list") }
+        Regex.match?(~r/review\/list.*page=2/, env.url) -> %Tesla.Env{status: 200, body: fixture("review_list_page_2") }
         Regex.match?(~r/review\/list/, env.url) -> %Tesla.Env{status: 200, body: fixture("review_list") }
         true -> %Tesla.Env{status: 404, body: ""}
       end
@@ -29,7 +30,28 @@ defmodule GrapeyTest do
   end
 
   test "list books" do
-    %{total: total, books: _books} = Grapey.reviews(4_320_329, 'currently-reading')
+    %{
+      total: total,
+      books: _books,
+      start_num: start_num,
+      end_num: end_num
+    } = Grapey.reviews(4_320_329, 'currently-reading')
+
     assert total == 18
+    assert start_num == 1
+    assert end_num == 18
+  end
+
+  test "list page 2 reviews" do
+    %{
+      total: total,
+      books: books,
+      start_num: start_num,
+      end_num: end_num
+    } = Grapey.reviews(4_320_329, 'olr-bookclub', 2) # TODO keyword args
+    assert total == 28
+    assert start_num == 21
+    assert end_num == 28
+    assert Enum.count(books) == 8
   end
 end

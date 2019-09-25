@@ -22,13 +22,15 @@ defmodule Grapey do
     ])
   end
 
-  def reviews(user_id, shelf) do
-    {:ok, response} = get("review/list?key=#{api_key()}&v=2&id=#{user_id}&shelf=#{shelf}", opts: [adapter: hackney_opts()]  )
+  def reviews(user_id, shelf, page \\ 1) do
+    {:ok, response} = get("review/list?key=#{api_key()}&v=2&id=#{user_id}&shelf=#{shelf}&page=#{page}", opts: [adapter: hackney_opts()]  )
     response.body
     |> xmap(books: [~x"//review/book"l,
       title: ~x"./title/text()"
     ],
-      total: ~x"//reviews/@total"i
+      total: ~x"//reviews/@total"i,
+      start_num: ~x"//reviews/@start"i,
+      end_num: ~x"//reviews/@end"i
     )
   end
   
